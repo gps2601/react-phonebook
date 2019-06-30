@@ -1,4 +1,4 @@
-# Note taking React Single-Page-Application in React
+# Note taking Application
 
 ## Available Scripts
 
